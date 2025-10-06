@@ -29,7 +29,7 @@
 - [x] Push all code and verify GitHub Actions
 
 ## 7. Test Deployment on Minikube
-- [ ] Set up Minikube locally
+- [ ] Set up Minikube locally (requires admin privileges, installation failed)
 - [ ] Apply Kubernetes manifests
 - [ ] Verify deployment and access application
 

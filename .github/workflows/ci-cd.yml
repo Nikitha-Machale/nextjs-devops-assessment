@@ -28,6 +28,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/nikitha-machale/nextjs-devops-assessment:latest
+          tags: ghcr.io/${{ github.actor }}/nextjs-devops-assessment:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max

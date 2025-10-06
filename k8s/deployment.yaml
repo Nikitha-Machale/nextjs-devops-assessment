@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nextjs
-          image: ghcr.io/YOUR_GITHUB_USERNAME/nextjs-devops-assessment:latest
+          image: ghcr.io/nikitha-machale/nextjs-devops-assessment:latest
           ports:
             - containerPort: 3000
           resources:
